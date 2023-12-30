@@ -6,3 +6,5 @@ DataStructure&amp;&amp;Algorithm
 - 이중 연결리스트
 - 스택
 - 큐
+- 덱
+- 해쉬테이블
