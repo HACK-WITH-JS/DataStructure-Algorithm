@@ -12,3 +12,5 @@ DataStructure&amp;&amp;Algorithm
 
 # 구현한 알고리즘
 - 버블정렬
+- 선택정렬
+- 삽입정렬
