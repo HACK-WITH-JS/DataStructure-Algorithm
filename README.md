@@ -11,6 +11,7 @@ DataStructure&amp;&amp;Algorithm
 - 덱
 - 해쉬테이블
 - 해쉬 셋
+- 이진 트리
 
 # 구현한 알고리즘
 
