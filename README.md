@@ -25,4 +25,5 @@ DataStructure&amp;&amp;Algorithm
 - 삽입정렬
 - 병합정렬
 - 퀵 정렬
+- 힙 정렬
 - 이진 탐색
