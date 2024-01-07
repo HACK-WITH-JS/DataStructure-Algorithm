@@ -18,6 +18,7 @@ DataStructure&amp;&amp;Algorithm
 - 힙 (구현 다시 복기하기..)
 - 우선순위 큐
 - 트라이
+- 최소신장트리(프림)
 
 # 구현한 알고리즘
 
